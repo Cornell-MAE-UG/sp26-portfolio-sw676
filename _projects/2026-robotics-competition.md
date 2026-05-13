@@ -8,7 +8,7 @@ image: /assets/images/robot-picture
 
 Robotics Competition
 
-![Photo of robotics competition robot]({{ "/assets/images/robot-picture" | relative_url }}){: .inline-image-l}
+![Photo of robotics competition robot]({{ "/assets/images/robot-picture" | relative_url }})
 
 Robot Design and Strategy Overview
 
@@ -30,7 +30,7 @@ Final Robot Design
 
 **Figure 1.** Final robot design showing the starting configuration and expanded configuration after release.
 
-![Robot design]({{ "/assets/images/robot-design" | relative_url }}){: .inline-image-l}
+![Robot design]({{ "/assets/images/robot-design" | relative_url }})
 
 ---
 
@@ -84,19 +84,19 @@ Appendix A: Bill of Materials (BOM)
 
 Appendix B: Circuit Diagram
 
-![Circuit diagram]({{ "/assets/images/robot-schematic" | relative_url }}){: .inline-image-l}
+![Circuit diagram]({{ "/assets/images/robot-schematic" | relative_url }})
 
 ---
 
 Appendix C: Drawings
 
-![Robot drawing]({{ "/assets/images/robot-drawing" | relative_url }}){: .inline-image-l}
+![Robot drawing]({{ "/assets/images/robot-drawing" | relative_url }})
 
 ---
 
 Appendix D: Flowchart
 
-![Robot flowchart]({{ "/assets/images/robot-flowchart" | relative_url }}){: .inline-image-l}
+![Robot flowchart]({{ "/assets/images/robot-flowchart" | relative_url }})
 
 ---
 
