@@ -30,16 +30,16 @@ For future students, we would recommend establishing the fundamentals of the rob
 
 ![Photo of robotics competition robot]({{ "/assets/images/robot-picture" | relative_url }}){: .inline-image-l}
 
-## Appendix A: Bill of Materials (BOM)
+ Appendix A: Bill of Materials (BOM)
 
 | Item                                              | Quantity              | Unit Price   | Total Price |
 |---------------------------------------------------|----------------------|--------------|--------------|
 | Zinc-Plated Steel Surface Mount Hinges with Holes | 2                    | $10.75/pair  | $10.75       |
-| Polypropylene Sheets                              | 1 (12” × 24” sheet) | $6.98/sheet  | $6.98        |
+| Polypropylene Sheets                              | 1 (12” × 24” sheet)  | $6.98/sheet  | $6.98        |
 | Corner Brackets                                   | 2                    | $1.06        | $2.12        |
-| Cardboard Sheets                                  | 5 (36” × 36” sheets)| N/A          | N/A          |
+| Cardboard Sheets                                  | 5 (36” × 36” sheets) | N/A          | N/A          |
 | String                                            | 12 in                | N/A          | N/A          |
-```
+
 
 Appendix B: circuit diagram
 ![circuit diagram]({{ "/assets/images/robot-schematic" | relative_url }}){: .inline-image-l}
