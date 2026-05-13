@@ -8,8 +8,6 @@ image: /assets/images/robot-picture.png
 
 Robotics Competition
 
-<![Photo of robotics competition robot]({{ "/assets/images/robot-picture.png" | relative_url }})" width="500">
-
 Robot Design and Strategy Overview
 
 We designed our robot to fit within the required 8 in × 8 in starting area while expanding to a maximum width of 12 inches during operation to maximize cube collection. The robot combined a passive mechanical expansion system with sensor-based navigation.
@@ -30,7 +28,7 @@ Final Robot Design
 
 **Figure 1.** Final robot design showing the starting configuration and expanded configuration after release.
 
-<![Robot design]({{ "/assets/images/robot-design.png" | relative_url }})" width="500">
+<img src="{{ '/assets/images/robot-picture.png' | relative_url }}" width="500" alt="Robot design">
 
 ---
 
@@ -84,19 +82,19 @@ Appendix A: Bill of Materials (BOM)
 
 Appendix B: Circuit Diagram
 
-<![Circuit diagram]({{ "/assets/images/robot-schematic.png" | relative_url }})" width="500">
+<img src="{{ '/assets/images/robot-schematic.png' | relative_url }}" width="500" alt="Circuit diagram">
 
 ---
 
 Appendix C: Drawings
 
-<![Robot drawing]({{ "/assets/images/robot-drawing.png" | relative_url }})" width="500">
+<img src="{{ '/assets/images/robot-drawing.png' | relative_url }}" width="500" alt="Robot drawing">
 
 ---
 
 Appendix D: Flowchart
 
-<![Robot flowchart]({{ "/assets/images/flowchart.png" | relative_url }})" width="500">
+<img src="{{ '/assets/images/flowchart.png' | relative_url }}" width="500" alt="Robot flowchart">
 
 ---
 
