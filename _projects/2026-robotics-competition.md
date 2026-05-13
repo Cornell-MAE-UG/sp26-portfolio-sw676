@@ -67,6 +67,9 @@ Appendix D: Flowchart
 
 
 Appendix E: Code
+```cpp
+    some code = 10;
+    plot();
 
 #include <avr/io.h>
 #include <util/delay.h>
@@ -181,7 +184,7 @@ int main(void) {
         }
     }
 }
-
+```
 
 
 
