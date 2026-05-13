@@ -3,7 +3,7 @@ layout: project
 title: Robotics Competition
 description: Autonomous robot designed and built for a robotics competition focused on cube collection, sensor-based navigation, and mechanical expansion.
 technologies: ["Arduino", "C++", "Sensors", "CAD", "Machining"]
-image: /assets/images/robot-picture.jpg
+image: /assets/images/robot-picture
 ---
 
 # Robotics Competition
@@ -84,19 +84,19 @@ Small performance details became much more important during real matches against
 
 # Appendix B: Circuit Diagram
 
-![Circuit diagram]({{ "/assets/images/robot-schematic.jpg" | relative_url }}){: .inline-image-l}
+![Circuit diagram]({{ "/assets/images/robot-schematic" | relative_url }}){: .inline-image-l}
 
 ---
 
 # Appendix C: Drawings
 
-![Robot drawing]({{ "/assets/images/robot-drawing.jpg" | relative_url }}){: .inline-image-l}
+![Robot drawing]({{ "/assets/images/robot-drawing" | relative_url }}){: .inline-image-l}
 
 ---
 
 # Appendix D: Flowchart
 
-![Robot flowchart]({{ "/assets/images/robot-flowchart.jpg" | relative_url }}){: .inline-image-l}
+![Robot flowchart]({{ "/assets/images/robot-flowchart" | relative_url }}){: .inline-image-l}
 
 ---
 
