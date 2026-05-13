@@ -6,11 +6,11 @@ technologies: ["Arduino", "C++", "Sensors", "CAD", "Machining"]
 image: /assets/images/robot-picture
 ---
 
-# Robotics Competition
+Robotics Competition
 
 ![Photo of robotics competition robot]({{ "/assets/images/robot-picture.jpg" | relative_url }}){: .inline-image-l}
 
-## Robot Design and Strategy Overview
+Robot Design and Strategy Overview
 
 We designed our robot to fit within the required 8 in × 8 in starting area while expanding to a maximum width of 12 inches during operation to maximize cube collection. The robot combined a passive mechanical expansion system with sensor-based navigation.
 
@@ -26,7 +26,7 @@ During operation, the robot first drove forward to trigger the expansion mechani
 
 ---
 
-## Final Robot Design
+Final Robot Design
 
 **Figure 1.** Final robot design showing the starting configuration and expanded configuration after release.
 
@@ -34,7 +34,7 @@ During operation, the robot first drove forward to trigger the expansion mechani
 
 ---
 
-## Design Process Reflection
+Design Process Reflection
 
 The milestones helped us iterate through the robot’s basic design and functionality before developing the cube intake system. During early testing, we attempted to operate without QTI sensors, but the robot had difficulty detecting borders and would sometimes drift off the board. To solve this, we added two front-mounted QTI sensors, which significantly improved reliability.
 
@@ -46,7 +46,7 @@ During testing, we also found that collected cubes often jammed between the whee
 
 ---
 
-## Competition Analysis
+Competition Analysis
 
 Our robot performed well during the competition and consistently collected between 8–13 cubes per match. The navigation sensors worked reliably, especially the QTI sensors, which allowed the robot to consistently stay on the board.
 
@@ -60,7 +60,7 @@ Despite these issues, the robot’s strengths were its reliable border detection
 
 ---
 
-## Conclusions
+Conclusions
 
 If we were to complete the project again under the same constraints and budget, we would focus more on optimizing speed and startup response time. We would also investigate the cause of the initial delay after battery connection and improve the robot’s reaction time. Larger wheels would likely improve overall movement speed as well.
 
@@ -70,7 +70,7 @@ Small performance details became much more important during real matches against
 
 ---
 
-# Appendix A: Bill of Materials (BOM)
+Appendix A: Bill of Materials (BOM)
 
 | Item                                              | Quantity              | Unit Price   | Total Price |
 |---------------------------------------------------|----------------------|--------------|--------------|
@@ -82,25 +82,25 @@ Small performance details became much more important during real matches against
 
 ---
 
-# Appendix B: Circuit Diagram
+Appendix B: Circuit Diagram
 
 ![Circuit diagram]({{ "/assets/images/robot-schematic" | relative_url }}){: .inline-image-l}
 
 ---
 
-# Appendix C: Drawings
+Appendix C: Drawings
 
 ![Robot drawing]({{ "/assets/images/robot-drawing" | relative_url }}){: .inline-image-l}
 
 ---
 
-# Appendix D: Flowchart
+Appendix D: Flowchart
 
 ![Robot flowchart]({{ "/assets/images/robot-flowchart" | relative_url }}){: .inline-image-l}
 
 ---
 
-# Appendix E: Code
+Appendix E: Code
 
 ```cpp
 #include <avr/io.h>
