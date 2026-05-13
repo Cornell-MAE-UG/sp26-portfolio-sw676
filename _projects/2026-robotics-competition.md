@@ -8,7 +8,7 @@ image: /assets/images/robot-picture
 
 Robotics Competition
 
-![Photo of robotics competition robot]({{ "/assets/images/robot-picture.jpg" | relative_url }}){: .inline-image-l}
+![Photo of robotics competition robot]({{ "/assets/images/robot-picture" | relative_url }}){: .inline-image-l}
 
 Robot Design and Strategy Overview
 
@@ -30,7 +30,7 @@ Final Robot Design
 
 **Figure 1.** Final robot design showing the starting configuration and expanded configuration after release.
 
-![Robot design]({{ "/assets/images/robot-design.jpg" | relative_url }}){: .inline-image-l}
+![Robot design]({{ "/assets/images/robot-design" | relative_url }}){: .inline-image-l}
 
 ---
 
