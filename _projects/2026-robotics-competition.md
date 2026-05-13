@@ -96,7 +96,7 @@ Appendix C: Drawings
 
 Appendix D: Flowchart
 
-<![Robot flowchart]({{ "/assets/images/robot-flowchart.png" | relative_url }})" width="500">
+<![Robot flowchart]({{ "/assets/images/flowchart.png" | relative_url }})" width="500">
 
 ---
 
