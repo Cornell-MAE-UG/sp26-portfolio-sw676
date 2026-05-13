@@ -3,7 +3,7 @@ layout: project
 title: Robotics Competition
 description: Autonomous robot designed and built for a robotics competition focused on cube collection, sensor-based navigation, and mechanical expansion.
 technologies: [Arduino, C++, Sensors, CAD, Machining]
-image: /assets/images/robotics-competition.jpg
+image: /assets/images/robot-picture.jpg
 ---
 
 Robot Design and Strategy Overview
@@ -28,6 +28,7 @@ Conclusions. Conclusions about the project given your analysis above. What would
 If we were to complete the project again with the same constraints and budget, we would focus more on optimizing details such as speed and reaction time. We would have liked to better understand why our robot had an initial delay and improve our own robot’s startup response time. We also would have invested in larger wheels to increase the robot’s overall speed.
 For future students, we would recommend establishing the fundamentals of the robot first and foremost, especially reliable border detection and staying on the board consistently. Once the robot has dependable basic functionality and intake, additional improvements such as speed, reaction time, and collection efficiency can make a significant difference during competition. Small performance details became much more important during actual matches with other robots than when we practiced on the board alone in the lab.
 
+![Photo of robotics competition robot]({{ "/assets/images/robot-picture.jpg" | relative_url }}){: .inline-image-l}
 
 Appendix A: Bill of Materials (BOM)
 
@@ -57,10 +58,10 @@ n/a
 n/a
 
 Appendix B: circuit diagram
-
+![circuit diagram]({{ "/assets/images/robot-schematic.jpg" | relative_url }}){: .inline-image-l}
 
 Appendix C: Drawings
-Also include screenshots of part volumes and weight calculations (or photos of the parts being weighed) corresponding to the lines in your BOM. 
+![sketch]({{ "/assets/images/robot-drawing.jpg" | relative_url }}){: .inline-image-l}
 
 Appendix D: Flowchart
 
