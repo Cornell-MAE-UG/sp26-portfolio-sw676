@@ -3,7 +3,7 @@ layout: project
 title: Robotics Competition
 description: Autonomous robot designed and built for a robotics competition focused on cube collection, sensor-based navigation, and mechanical expansion.
 technologies: ["Arduino", "C++", "Sensors", "CAD", "Machining"]
-image: /assets/images/robot-picture.png
+image: /assets/images/Screen Shot 2026-05-13 at 6.54.42 AM.png
 ---
 
 Robotics Competition
@@ -28,7 +28,7 @@ Final Robot Design
 
 **Figure 1.** Final robot design showing the starting configuration and expanded configuration after release.
 
-<img src="{{ '/assets/images/robot-picture.png' | relative_url }}" width="500" alt="Robot design">
+<img src="{{ '/assets/images/Screen Shot 2026-05-13 at 6.54.42 AM.png' | relative_url }}" width="500" alt="Robot design">
 
 ---
 
